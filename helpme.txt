@@ -1,0 +1,19 @@
+
+Uncle bob video: https://www.youtube.com/watch?v=is41fgDrqn0
+
+Three laws of TDD:
+> You are not allowed to write any production code unless it is to make a failing unit test pass.
+> You are not allowed to write any more of a unit test than is sufficient to fail.
+> You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
+
+The test is the question you are asking 
+your code is the answer to the question. 
+By having a clear question, you can always check that your code is working, 
+because it consistently gives you the same answer(s) ... no surprises, even when you're working with a large, inter-dependent code base!
+
+Isogram : https://github.com/exercism/python/tree/master/exercises/isogram
+
+
+Pangram: https://github.com/exercism/python/tree/master/exercises/pangram
+
+Word count: https://github.com/exercism/python/blob/master/exercises/word-count/word_count_test.py

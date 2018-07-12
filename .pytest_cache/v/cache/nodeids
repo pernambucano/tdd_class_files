@@ -1,0 +1,15 @@
+[
+  "word_count_test.py::TestWordCount::()::test_count_one_word",
+  "word_count_test.py::TestWordCount::()::test_count_one_of_each",
+  "word_count_test.py::TestWordCount::()::test_count_multiple_occurrences_of_a_word",
+  "word_count_test.py::TestWordCount::()::test_cramped_list",
+  "word_count_test.py::TestWordCount::()::test_expanded_list",
+  "word_count_test.py::TestWordCount::()::test_ignores_punctuation",
+  "word_count_test.py::TestWordCount::()::test_include_numbers",
+  "word_count_test.py::TestWordCount::()::test_normalize_case",
+  "word_count_test.py::TestWordCount::()::test_apostrophes",
+  "word_count_test.py::TestWordCount::()::test_quotations",
+  "word_count_test.py::TestWordCount::()::test_multiple_spaces_not_detected_as_a_word",
+  "word_count_test.py::TestWordCount::()::test_tabs",
+  "word_count_test.py::TestWordCount::()::test_non_alphanumeric"
+]
